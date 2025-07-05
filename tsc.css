@@ -3,6 +3,7 @@
     color: azure;
     padding: 80px;
     font-family: sans-serif;
+    padding-top: 0%;
    
 }
 .bbb img{
@@ -19,10 +20,13 @@
 }
 .ccc{
     text-align: center;
+    color: rgb(195, 216, 9);
 }
 .ddd{
     text-align: center;
-    font-size: xx-large;
+    font-weight: bolder;
+    font-size: 350%;
+    color: rgb(164, 215, 24);
 }
 
 .uuu{
